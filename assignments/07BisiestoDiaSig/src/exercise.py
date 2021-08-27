@@ -1,4 +1,5 @@
 def main():
+    #función main
     #escribe tu código abajo de esta línea
     y = int(input("Año: "))
     m = int(input("Mes: "))
